@@ -60,21 +60,7 @@ VS Code
 
 ---
 
-# 📊 Data Projects
 
-### 📈 Sales Data Analysis
-Analyze sales data to identify trends and business insights.
-
-### 🎬 Netflix Data Analysis
-Explore Netflix dataset to understand content trends.
-
-### 👥 Customer Churn Analysis
-Predict customer churn using data analytics.
-
-### 🛒 E-commerce Data Dashboard
-Interactive dashboard for business decision making.
-
----
 
 # 🌐 Connect With Me
 
